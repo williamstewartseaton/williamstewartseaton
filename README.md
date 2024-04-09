@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @williamstewartseaton
+- 👋 Hi, I’m @williamstewartseaton and I go by Liam Seaton.
 - 👀 I’m interested in GenAI, Python coding, and coding chatbot/assistants for programmers of all skill levels.
 - 🌱 I’m currently learning Python and basic SQL.
 - 💞️ I’m looking to collaborate on any open source or research oriented projects.
-- 📫 How to reach me: via DM over GitHub
+- 📫 How to reach me: via DM over LinkedIn 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a certified zipline and high ropes instructor and a former college athlete. 
 
